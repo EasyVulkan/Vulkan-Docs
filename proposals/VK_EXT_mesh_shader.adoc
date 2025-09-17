@@ -12,6 +12,11 @@
 
 This extension provides a new mechanism allowing applications to generate collections of geometric primitives via programmable mesh shading.
 
+== Test Math
+
+* asciimath - asciimath:[x + y * width + z * width * height]
+* latexmath - latexmath:[x + y * width + z * width * height]
+* stem - stem:[x + y * width + z * width * height]
 
 == Problem Statement
 
